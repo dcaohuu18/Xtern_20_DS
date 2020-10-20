@@ -11,3 +11,5 @@ For more details, please view the notebook ``Cook Time Prediction``.
 4. An interesting fact is that coffee is mostly served with Fast Food, other beverages, and Italian food. This conclusion is reached by examining the ``Cuisines`` column. 
 You can try doing the same thing with other cuisine, too. For the details, please view the ``EDA`` (Exploratory Data Analysis) notebook. 
 There are also other comments I made in this notebook.
+
+For a better view of the notebook, please visit this link: https://nbviewer.jupyter.org/github/dcaohuu18/Xtern_20_DS/tree/master/.
